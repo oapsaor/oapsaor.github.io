@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+So, I made this blog just to store the problems I solve in mathematics and the things I learn from this beautiful subject. My current interests are Geometry and Functional Equations, although I'll everything
