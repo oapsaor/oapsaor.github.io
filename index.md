@@ -1,1 +1,1 @@
-So, I made this blog just to store the problems I solve in mathematics and the things I learn from this beautiful subject. My current interests are Geometry and Functional Equations, although I'll everything
+So, I made this blog just to store the problems I solve in mathematics and the things I learn from this beautiful subject. My current interests are Geometry and Functional Equations, although I'll post and solve everything.
