@@ -1,7 +1,7 @@
-# My first post!
+# The basics of inequalities.
 
-Comi o cu de quem tá lendo.
+### Main results
 
-Anyways, I'll probably delete this post later. I also need to learn [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), and learn how to set up LaTex in this shit. Bye!
-
-Now, let's do a quick test: $$f(x)=x$$.
+###### AM-GM
+Given non-negative reals $$a_{1}, \dots, a_{n}$$, we have $\frac{1}{n} \sum_{i=1}^{n} a_{i} \geq \left( \prod_{i=1}^{n}a_{i} \right)^{\frac{1}{n}}$.
+The equality case occurs if and only if $a_{1}=\dots=a_{n}$.
