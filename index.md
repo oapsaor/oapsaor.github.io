@@ -1,1 +1,1 @@
-So, I made this blog just to store the problems I solve in mathematics and the things I learn from this beautiful subject. My current interests are Geometry and Functional Equations, although I'll post and solve everything.
+This is my math olympiad problems storage. I will basically post every solution I make here, so I don't lose it nor forget it. Eventually, I'll also post higher math related stuff, either because I'm learning it and I want to consolidate the knowledge in my head or just because I find it fun.
