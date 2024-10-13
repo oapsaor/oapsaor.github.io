@@ -1,4 +1,6 @@
-# Basic Inequalities.
+# Inequalities.
+
+Erm, I'm creating this because I'm kind of stupid and I always forget something about the main inequalities. So, to fix this problem, I'm writing them all here.
 
 ### Main results
 
