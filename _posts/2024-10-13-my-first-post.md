@@ -1,6 +1,5 @@
-# My first blog post!
-I don't really know what to write here, as I haven't solved any problem since I took the Brazilian Math Olympiad. So, stay with the statement of problem five.
+# My first post!
 
-Find all functions $f:$ $\mathbb{R} \to \mathbb{R}$ such that $f(x^2y-y)=f(x)^2f(y)+f(x)^2-1$.
+Comi o cu de quem tá lendo.
 
-Really cool (but quite challenging) problem.
+Anyways, I'll probably delete this post later. I also need to learn [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Bye!
